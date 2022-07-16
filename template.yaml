@@ -21,3 +21,5 @@ Resources:
           CidrIp: 0.0.0.0/0
 
 
+# create a user and add AdministratorAccess policy to route from circleci
+# Add user secret key and access id to circleci environmental variable
